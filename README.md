@@ -2,4 +2,5 @@
 Useful MacOS apps I use every day
 
 * [Maccy](https://github.com/p0deje/Maccy) -- lightweight clipboard manager
-* [PiP](https://github.com/amitv87/PiP) -- Picture in picture that can pin the window on top of the other windows
+* [PiP](https://github.com/amitv87/PiP) -- Picture in picture app that can pin the window on top of the other windows
+* [Logseq](https://github.com/logseq/logseq) -- Knowledge managment tool for organazing my notes 
